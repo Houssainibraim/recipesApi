@@ -1,0 +1,48 @@
+[
+{
+  "name":"Sunshine blues juice",
+  "description":"If you love berries then this juice recipe is for you.",
+  "ingredients":"A simple blend of 1/2 cup blueberries , 1/2 cup blackberries ,2 freshly squeezed lemons , 1 tablespoon chopped ginger  1 cup water",
+  "steps":"Blend all ingredient until smooth and strain through a sieve. Add some berry juice to your diet.",
+  "imageURL":"https://static.toiimg.com/thumb/75122045.cms?width=680&height=512&imgsize=180828"
+
+},
+
+
+{
+  "name":"Green juice",
+  "description":"This blend is prepared all the greens to give you a boost of energy. The same veggies that you should be eating, can now be added to your diet in the form of a juice. ",
+  "ingredients":"4 handfuls of spinach , 1 leaf of kale , 1 cucumber ,peeled half lemon , one apple and a small carrot",
+  "steps":"In a mixer add The ingredients Sieve it and your juice is ready. This blend makes an incredible detoxifier with a powerhouse of anti-oxidant and anti-inflammatory properties.",
+  "imageURL":"https://static.toiimg.com/thumb/75122039.cms?width=680&height=512&imgsize=256941"
+
+},
+
+{
+  "name":"Pineapple and kale juice",
+  "description":"Pineapple juices are pleasantly sweet to taste and mix in the goodness of kale, it makes for a great blend",
+  "ingredients":"half a cup of freshly chopped pineapple , 1 green apple (cored) , a handful of cilantro , and 6 leaves of kale ",
+  "steps":"Blend all and serve the juice. The goodness of apples helps fight inflammation and boost heart health.",
+  "imageURL":"https://static.toiimg.com/thumb/75122041.cms?width=680&height=512&imgsize=154489"
+
+},
+
+{
+  "name":"Active Apple",
+  "description":"Apples make for a great juice ingredient as they have a sweet flavour and help mask other flavours.",
+  "ingredients":"2 apples, 1 peeled lemon, 3 stalks of celery, 2 carrots (peeled), and 5 stems of fresh parsley.",
+  "steps":"To make this juice combine the ingredients Celery is low in calorie and a good source of fibre, vitamin A, vitamin C, and vitamin K. Lemon is also an effective cleansing agent which makes this blend of juice health",
+  "imageURL":"https://static.toiimg.com/thumb/75122030.cms?width=680&height=512&imgsize=85587"
+
+},
+
+{
+  "name":"Green warrior",
+  "description":"It is an intensely rich juice with a blend of fruits for nutritional benefits",
+  "ingredients":"add 4 cups of spinach with 2 cored apples and 2 whole lemons, with 2 peeled oranges and a small chunk of ginger to add a zing along with a load of nutrients.",
+  "steps":"To make this juice combine all the ingredients  while oranges and lemon fill you up with vitamin C, ginger properties aid in digestion",
+  "imageURL":"https://static.toiimg.com/thumb/75122037.cms?width=680&height=512&imgsize=131672"
+  
+},
+
+]
