@@ -1,0 +1,75 @@
+[
+  {
+    "name":"Chocolate Billionaires",
+    "description":"Everyone raves about these chocolate and caramel candies. I received the recipe from a friend while living in Texas. When we moved, I made sure this recipe made the trip with me! —June Humphrey, Strongsville, Ohio",
+    "Ingredients":[
+      "1 package (14 ounces) caramels",
+      "1 cup Rice Krispies",
+      "3 tablespoons water",
+      "3 cups milk chocolate chips",
+      "1-1/2 cups chopped pecans",
+      "1-1/2 teaspoons shortening"
+    ],
+    "steps":"Line 2 baking sheets with waxed paper; grease the paper and set aside. In a large heavy saucepan, combine the caramels and water; cook and stir over low heat until smooth. Stir in pecans and cereal until coated. Drop by teaspoonfuls onto prepared pans. Refrigerate for 10 minutes or until firm.
+Meanwhile, in a microwave, melt chocolate chips and shortening; stir until smooth. Dip candy into chocolate, coating all sides; allow excess to drip off. Place on prepared pans. Refrigerate until set. Store in an airtight container.",
+  "imageURL":"https://imgur.com/mT2hVii"
+},
+{
+  "name":"Peanut Butter Kiss Cookies",
+  "description":"Baking peanut butter kiss cookies to share doesn't get much easier than this. Stir together four ingredients. Bake. Top with a kiss. Done! Your family will love this Hershey's peanut butter blossom cookie recipe. ",
+  "Ingredients":[
+    "1 cup peanut butter",
+    "1 teaspoon vanilla extract",
+    "1 cup sugar",
+    "30 milk chocolate kisses",
+    "1 large egg, room temperature"
+
+  ],
+  "steps":"Preheat oven to 350°. Cream peanut butter and sugar until light and fluffy. Beat in egg and vanilla.Roll into 114in. balls. Place 2 in. apart on ungreased baking sheets. Bake until tops are slightly cracked, 10-12 minutes. Immediately press 1 chocolate kiss into center of each cookie. Cool for 5 minutes before removing from pans to wire racks.",
+  "imageURL":"https://imgur.com/NVjCU5g"
+},
+{
+  "name":"Semisweet Chocolate Mousse",
+  "description":"A friend shared this rich velvety chocolate mousse recipe with me. I love to cook and have tons of recipes, but this one is a favorite. Best of all, it's easy to make.",
+  "Ingredients":[
+    "1/4 cup semisweet chocolate chips",
+    "1/2 cup heavy whipping cream",
+    "1 tablespoon water",
+    "1 tablespoon sugar",
+    "1 large egg yolk, lightly beaten"
+
+  ],
+  "steps":"In a small saucepan, melt chocolate chips with water; stir until smooth. Stir a small amount of hot chocolate mixture into egg yolk; return all to the pan, stirring constantly. Cook and stir for 2 minutes or until slightly thickened. Remove from the heat; stir in vanilla. Quickly transfer to a small bowl. Stir occasionally until completely cooled.In a small bowl, beat whipping cream until it begins to thicken. Add sugar; beat until soft peaks form. Fold into cooled chocolate mixture.Cover and refrigerate for at least 2 hours. If desired, garnish with whipped cream and raspberries.",
+  "imageURL":"https://imgur.com/nm1TubS"
+},
+
+{
+  "name":"Frozen Banana Cereal Pops",
+  "description":"When we want a healthy snack, we dip bananas in yogurt, roll 'em in cereal, then freeze. Ta-da!",
+  "Ingredients":[
+    "3/4 cup strawberry yogurt",
+    "4 medium bananas, peeled and cut crosswise in half",
+    "2 cups Fruity Pebbles cereal",
+    "8 wooden pop sticks"
+
+  ],
+  "steps":"Place yogurt and cereal in separate shallow bowls. Insert pop sticks through cut side of bananas. Dip bananas in yogurt, then roll in cereal to coat. Transfer to waxed paper-lined baking sheets.Freeze until firm, about 1 hour. Transfer to airtight freezer containers; seal containers and return pops to freezer.",
+  "imageURL":"https://imgur.com/zybbxiP"
+},
+
+{
+  "name":"Quick and Easy Baklava Squares",
+  "description":"I love baklava but rarely indulged because it took so much time to make. Then a friend of mine gave me this simple recipe. I’ve made these squares for family, friends and co-workers—they can’t get enough. I’m always asked to bring them to special gatherings and parties, and I even give them as gifts during the holidays. ",
+  "Ingredients":[
+    "1 pound (4 cups) chopped walnuts",
+    "1 cup butter, melted",
+    "1-1/2 teaspoons ground cinnamon",
+    "1 cup honey",
+    "1 package (16 ounces, 14x9-inch sheets) frozen phyllo dough, thawed"
+
+  ],
+  "steps":"Preheat oven to 350°. Coat a 13x9-in. baking dish with cooking spray. Combine walnuts and cinnamon.Unroll phyllo dough. Layer 2 sheets of phyllo in prepared pan; brush with butter. Repeat with 6 more sheets of phyllo, brushing every other 1 with butter. (Keep remaining phyllo covered with a damp towel to prevent it from drying out.)Sprinkle 1/2 cup nut mixture in pan; drizzle with 2 tablespoons honey. Add 2 more phyllo sheets, brushing with butter; sprinkle another 1/2 cup nutmixture and 2 tablespoons honey over phyllo. Repeat layers 6 times. Top with remaining phyllo sheets, brushing every other 1 with butter.Using a sharp knife, score surface to make 24 squares. Bake until golden brown and crisp, 25-30 minutes. Cool on a wire rack 1 hour or before serving.",
+  "imageURL":"https://imgur.com/mamWJDS"
+}
+
+]
